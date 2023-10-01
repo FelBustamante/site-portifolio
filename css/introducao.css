@@ -55,6 +55,10 @@ img {
     font-size: 2rem;
   }
 
+  .introducao h1 p {
+    text-align: center;
+  }
+
   .introducao h1::before {
     width: 30px;
     height: 10px;
