@@ -35,3 +35,7 @@ footer {
   font-size: 1.125rem;
   color: #8f8f8f;
 }
+
+@media (max-width: 800px) {
+  font-size: 1.125rem;
+}
