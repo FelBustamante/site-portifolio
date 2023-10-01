@@ -84,7 +84,7 @@
     grid-template-columns: 1fr;
     gap: 40px;
     margin-left: 20px;
-    text-align: center;
+    text-align: left;
   }
 
   .experiencia .subtitulo {
