@@ -122,6 +122,17 @@ ul {
     gap: 40px;
     margin-left: 30px;
   }
+
+  .formacao-container::after {
+    content: "";
+  display: block;
+  width: 20px;
+  height: 60px;
+  background: url(../img/detalhe.svg) no-repeat center;
+  position: absolute;
+  bottom: -30px;
+  left: 20px;
+  }
   .formacao .subtitulo {
     color: #ffffff;
     max-width: initial;
