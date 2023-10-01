@@ -49,14 +49,11 @@ img {
   .introducao {
     grid-template-columns: 1fr 1fr;
     gap: 40px;
+    text-align: center;
   }
 
   .introducao h1 {
     font-size: 2rem;
-  }
-
-  .introducao h1 p {
-    text-align: center;
   }
 
   .introducao h1::before {
