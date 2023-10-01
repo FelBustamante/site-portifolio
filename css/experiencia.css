@@ -92,6 +92,10 @@
     color: #141414;
   }
 
+  .empresa {
+    margin-left: 20px;
+  }
+
   .empresa-texto {
     font-size: 1.25rem;
   }
