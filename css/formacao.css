@@ -110,7 +110,6 @@ ul {
   background: url(../img/idiomas.svg) no-repeat center center;
 }
 
-
 .cursos li {
   display: flex;
   justify-content: space-between;
@@ -121,7 +120,7 @@ ul {
     grid-template-columns: 1fr;
     padding: 60px 20px;
     gap: 40px;
-    margin-left: 40px;
+    margin-left: 20px;
   }
   .formacao .subtitulo {
     color: #ffffff;

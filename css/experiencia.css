@@ -84,7 +84,7 @@
   .experiencia {
     grid-template-columns: 1fr;
     gap: 40px;
-    margin-left: 40px;
+    margin-left: 20px;
     text-align: center;
   }
 
