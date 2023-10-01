@@ -49,7 +49,6 @@ img {
   .introducao {
     grid-template-columns: 1fr 1fr;
     gap: 40px;
-    text-align: left;
   }
 
   .introducao h1 {
