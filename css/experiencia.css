@@ -115,7 +115,7 @@
 
 @media (max-width: 400px) {
   .empresa-texto {
-    text-align: center;
+    justify-content: center;
     margin-left: 20px;
   }
 }
