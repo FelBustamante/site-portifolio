@@ -124,6 +124,7 @@ ul {
   }
   .formacao .subtitulo {
     color: #ffffff;
+    max-width: initial;
   }
   .formacao-texto {
     font-size: 1.25rem;
